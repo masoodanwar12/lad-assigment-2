@@ -76,7 +76,7 @@ sample={("sohaib","ali"):"0246585468445", ("aib","li"):"02465854645",
 firstName = input("enter first name")
 lastName = input("enter the last name")
                   
-szubairearchTuple = (firstName,lastName)
+searchTuple = (firstName,lastName)
 if searchTuple in sample:
     print(sample[searchTuple])
 else:
