@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #Activity 1
 myList1=[]
 print("enter objests of first list...")
